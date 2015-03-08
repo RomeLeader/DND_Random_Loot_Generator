@@ -1,42 +1,13 @@
 # DND_Random_Loot_Generator
 A random loot generator for DND using simple switch cases and random numbers
 
-[Version 1.5]
+[Version 1.1.2]
 
-Tired of that lousy DM fucking up your initiative and missing your turn? Tired of having to find a pencil to write down
-initiative or calculating it with all those numbers?
+Ever wanted the authentic RPG experience of looting a room and gaining a 2 ton pack of knick-knacks and broomsticks.
 
-TIRE NO MORE
+Whether you wanted it or not, now you can, thanks to the Random Loot Generator!
 
-Introducing the handy, dandy DND INITIATOR 3000!!! Running on a shiny version of Google's Quicksort, this bad boy can
-calculate initiative for you and 10 million of your best buds. It has log(n) complexity, so you know that shit's for real.
+Very simple to use. Just indicate a number of things you want, and you will be returned a selection of items and a quantity.
 
-Source code included for benefit of the interested (Jeffrey).
-
-~~~INSTRUCTIONS~~~
-
-1) Install the files from here: http://www.microsoft.com/en-ca/download/details.aspx?id=30679
-
-2) Save the .exe to your Desktop. Run it. Follow its directions.
-
-3) ???
-
-4) Profit!
-
-Version Notes/Things to Fix:
-
-Features:
-
-* 6 player, 12 monster support
-* Enter to scroll through list for current player
-* # ENTER TWICE TO SKIP UNNEEDED MONSTERS/PLAYERS
-
-Notes/Future Additions:
-
-- Currently, ties are not resolved. Any tie is left alone, but eventually will be awarded to the player with the best Dex
-
-- When you go up a level, I just need to make a quick change, but don't let me forget or you'll never have the right init.
-
-- Anyone can input any number they want for a dice roll. Don't. I could fix this but it would be better to trust that
-you'll just give sanitized input. Make sure to give a value. If you give nothing, the computer could assign
-a huge random value instead, though it won't let you move on without a keystroke of some kind.
+~~~Features~~~
+* 30 collectible items! (Gotta catch 'em all!) 
